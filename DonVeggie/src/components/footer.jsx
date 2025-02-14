@@ -9,8 +9,8 @@ const Footer = () => {
                <a href="https://www.linkedin.com/in/fabiotagliaferri00/"target="_blank"> 
                <img src="https://img.icons8.com/?size=80&id=108812&format=png" alt="Linkedin" className="w-18 hover:scale-110 transition-transform duration-200"></img></a>
 
-           
-            
+
+
         </footer>
 
     )
